@@ -1,0 +1,739 @@
+@import url('https://fonts.cdnfonts.com/css/poppins');
+@import url('https://fonts.cdnfonts.com/css/ubuntu');
+
+
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:"poppins", sans-serif;
+}
+html{
+    font-size: 16px;
+
+}
+.container{
+    max-width: 1440px;
+    height: auto;
+    margin: 0 auto;
+    padding: 0 2rem;
+    width: 100%;
+    
+}
+.img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+a{
+ text-decoration: none;    
+}
+.heading-normal-txt{
+    font-size: 1rem;
+    letter-spacing: 6px;
+    color: #333333;
+}
+.headings{
+    font-size: 3rem;
+    font-family: "ubuntu";
+    padding-bottom: 2rem;
+    letter-spacing: 2px;
+}
+.headings span{
+    color: #2E8B57;
+}
+.secondary-headings{
+    font-size: 2.5rem;
+    font-family: "ubuntu";
+    padding: 1rem o;
+}
+
+.lead{
+    font-size: 1.1rem;
+    line-height: 2;
+    text-align: justify;
+}
+.primary-btn{
+    width: 50%;
+    outline: none;
+    background-color:#87CEEB ;
+    border: none;
+    padding: 0.7rem;
+    font-size: 1.7rem;
+    border-radius: 4px;
+    color: #F5F5F5;
+    cursor: pointer;
+}
+/* <--------------- code starts from here -------> */
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 80px;
+  z-index: 1000; 
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #2E8B57; 
+  padding: 0 2rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+.logo img {
+  height: 60px; 
+  width: auto;
+  object-fit: contain;
+}
+
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+nav ul {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem; 
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  margin: 0; 
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+nav ul li a{
+   color: #F5F5F5;
+   font-size: 1.1rem;
+   font-family: "poppins",'Times New Roman', Times, serif;
+   
+}
+nav ul li::before{
+    content: "";
+    position: absolute;
+    top: 30px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    background: #F5F5F5;
+    opacity: 0;
+    transition: all 0.3s ease-in;
+}
+nav ul li:hover::before{
+    opacity: 1;
+    width: 100%;
+}
+.menu-quiz {
+  background-color: #FFA500;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  font-weight: 500;
+  cursor: pointer;
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+}
+.menu-quiz:hover {
+  transform: scale(1.05);
+  background-color: #e59400;
+}
+
+.img-overlay h2 span {
+  color: transparent;
+  -webkit-text-stroke: 1px var(--white-color); 
+}
+.btn{
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #fff;
+  line-height: 1; 
+  margin: 0; 
+  padding: 0;
+}
+/* ================= Header closes ====================*/
+
+
+
+main{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+}
+.swiper{
+    height: 100vh;
+}
+.slide-container{
+    width: 100%;
+}
+.slide-container img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.img-overlay {
+    position: absolute;
+    z-index: 5;
+    left: 50%;
+    top: 50%;
+    text-align: center;
+    width: 100%;
+    font-family: "ubuntu";
+    transform: translate(-50%, -50%);
+}
+.img-overlay p{
+    font-size: 1rem;
+    letter-spacing: 8px;
+    color: #F5F5F5;
+    animation: animate 4s forwards;
+}
+.img-overlay h2{
+    font-size: 2.7rem;
+    color: #F5F5F5;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    animation: animate 4s forwards;
+    transition: all 0.5s ease-in-out;
+}
+.img-overlay h2 span {
+  color: transparent;
+  -webkit-text-stroke: 1px #F5F5F5; 
+}
+
+.overlay {
+    position: relative;
+}
+.overlay::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgb(0,0,0,0.4);
+}
+@keyframes animate{
+    0%{
+        transform: translate(-50%);
+        opacity: 0;
+    }
+    50%{
+        opacity: 0.2;
+    }
+    70%{
+        opacity: 0.5;
+    }
+    70%{
+        opacity: 1;
+        transform: translate(-0%);
+    }
+}
+
+
+/* =================== Show case end =====================*/
+/* =================== Location search start =====================*/
+
+.location-search {
+   transform: translateY(-140%);
+  padding: 4rem 1rem;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+
+.location-search .container {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.location-search h3 {
+  font-size: 1.5rem;
+  color: #2E8B57;
+  margin-bottom: 1rem;
+}
+
+.arrow-animation {
+  display: block;             
+  margin: 0 auto 1.5rem auto;  
+  width: 40px;                 
+  animation: bounce 1s infinite;
+}
+
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+
+.take-quiz-btn {
+  background-color: #FFA500;
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.take-quiz-btn:hover {
+  transform: scale(1.08); 
+  background-color: #e59400;
+}
+
+
+.container a {
+  color: #f5f5f5;
+  text-decoration: none;
+}
+
+.container a:visited {
+  color: #f5f5f5;
+}
+/* =================== Choose place =====================*/
+
+#choose-place {
+  padding: 6rem 0;
+  margin-top: -88px;
+}
+.choose-wrapper {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 2rem;
+  
+}
+
+.lg-img {
+  position: relative;
+  height: 400px; 
+  overflow: hidden; 
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.lg-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+}
+
+
+.lg-img:hover::before{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color:rgba(0, 0, 0, 0.5);
+}
+.lg-img:hover{
+  transform: scale(1.02);
+}
+.img-content{
+  position: absolute;
+  bottom: 20px;
+}
+.img-content h2{
+  font-size: 1.25rem;
+  font-weight: 500;
+  padding: 0 2rem;
+  color: #f5f5f5;
+
+}
+.heading-normal-txt{
+  color:#2E8B57;
+}
+.heading span{
+  color:#2E8B57;
+}
+
+.hidden-content{
+  display: inline-flex;
+  padding: 0.5rem 2rem;
+  color: #f5f5f5;
+  transform: translateY(120%);
+  transition: all 0.5s ease-in-out;
+}
+.lg-img:hover .hidden-content{
+  transform: translateY(0%);
+}
+.row-wise-img {
+  display: flex;
+  overflow-x: auto;          
+  gap: 2rem;                 
+  padding: 1rem 0;
+  scroll-snap-type: x mandatory; 
+}
+
+.row-wise-img .lg-img {
+  flex: 0 0 auto;             
+  width: 300px;              
+  height: 300px;
+  scroll-snap-align: start; 
+}
+
+
+.row-wise-img .lg-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+.row-wise-img::-webkit-scrollbar {
+  display: none;
+}
+
+
+/* =================== Choose place CLOSES=====================*/
+
+/* =================== ITINERARY STARTS=====================*/
+
+#itinerary {
+  padding: 6rem 0;
+  background-color: #f5f5f5;
+  position: relative;
+}
+
+#itinerary .container {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+/* Left video section */
+#itinerary video{
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  max-height: 200px;
+}
+.video-bg {
+  position: relative;
+  width: 100%;
+  max-height: 200px;
+  overflow: hidden;
+}
+
+#itinerary video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.video-bg::before{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.6);
+}
+.video-title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #2E8B57;
+  font-size: 2rem;
+  font-family: "ubuntu";
+  text-align: center;
+  z-index: 2;
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.7);
+  pointer-events: none;
+  font-weight: 500;
+}
+/* Right itinerary content */
+.video-container {
+   position: relative;
+}
+
+.video-container h2 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Horizontal itinerary layout */
+.itinerary {
+  display: flex;
+  gap: 2rem;
+  overflow-x: auto;
+  padding-bottom: 1rem;
+}
+
+.itinerary > div {
+  min-width: 200px;
+  flex-shrink: 0;
+  background: white;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.itinerary h3 {
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+  color: #2E8B57;
+}
+
+.itinerary ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.itinerary ul li {
+  margin-bottom: 0.5rem;
+}
+
+#itinerary .itinerary ul li a {
+  color: #333 !important;  
+  font-size: 0.95rem;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+#itinerary .itinerary ul li a:hover {
+  color: #FFA500 !important;
+  text-decoration: underline;
+}
+.video-container h2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #F5F5F5;
+  font-size: 2.5rem;
+  text-align: center;
+  z-index: 3;
+  width: 100%;
+  pointer-events: none; 
+}
+
+
+/* ======================== GALLERY Section STRATS ========================*/
+#travel-blog {
+  background: #e59400;
+  padding: 4rem 1rem;
+}
+
+#travel-blog .container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+#travel-blog .heading-normal-txt {
+  text-align: center;
+  font-size: 1.1rem;
+  letter-spacing: 2px;
+  color: white;
+  margin-bottom: 0.5rem;
+}
+
+#travel-blog .heading {
+  text-align: center;
+  font-size: 2.5rem;
+  color: white;
+  margin-bottom: 2rem;
+}
+
+#travel-blog .heading span {
+  color: #2E8B57;
+}
+
+
+.top-destination-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+/* ======================== Contact Info Section STRATS ========================*/
+
+
+
+#contact-info {
+  background-color: #F5F5F5; 
+  padding: 4rem 2rem;
+  color: #333;
+  font-family: 'Poppins', sans-serif;
+}
+
+#contact-info .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
+#contact-info .address {
+  flex: 1 1 60%;
+}
+
+#contact-info .address h2 {
+  font-size: 2rem;
+  color: #2E8B57;
+  margin-bottom: 1.5rem;
+}
+
+#contact-info .address p {
+  font-size: 1.3rem;
+  line-height: 1.6;
+  margin-bottom: 0.8rem;
+}
+
+#contact-info .socials {
+  flex: 1 1 30%;
+  display: flex;
+  justify-content: flex-start;
+  gap: 1.5rem;
+  align-items: center;
+  font-size: 2.4rem;
+}
+
+#contact-info .socials a {
+  color: #2E8B57;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+#contact-info .socials a:hover {
+  color: #FFA500; 
+  transform: scale(1.2);
+}
+
+
+
+
+/* =================== Location search  end =====================*/
+
+ /* ========== AUTO-SCROLL STYLES FOR 'Choose your place' & 'Itinerary' SECTIONS ========== */
+
+
+@keyframes scrollLoop {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+
+.auto-scroll-wrapper {
+  overflow: hidden;
+  width: 100%;
+}
+
+
+.auto-scroll {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: nowrap;
+  animation: scrollLoop 30s linear infinite;
+  width: max-content;
+}
+
+.auto-scroll .lg-img {
+  min-width: 300px;
+  height: 300px;
+  flex-shrink: 0;
+}
+
+/* ========== APPLY TO CHOOSE YOUR PLACE ========== */
+.row-wise-img {
+  overflow: hidden;
+  width: 100%;
+}
+
+.row-wise-img > div {
+  display: flex;
+  gap: 2rem;
+  animation: scrollLoop 25s linear infinite;
+}
+
+.row-wise-img .lg-img {
+  min-width: 300px;
+  height: 300px;
+  flex-shrink: 0;
+}
+
+/* ========== APPLY TO ITINERARY SECTION ========== */
+.itinerary {
+  margin-top: 30px;
+}
+#itinerary-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  padding: 2rem;
+}
+
+.itinerary-card {
+  background: white;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.itinerary-card {
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background: #fff;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+.itinerary-title {
+  font-size: 1.2rem;
+  color: #2E8B57;
+  margin-bottom: 0.5rem;
+}
+
+.itinerary-table-wrapper {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.itinerary-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 0.5rem;
+}
+
+.itinerary-table th,
+.itinerary-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.itinerary-table th {
+  background-color: #f2f2f2;
+}
+
+

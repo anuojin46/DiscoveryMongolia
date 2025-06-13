@@ -1,0 +1,208 @@
+
+
+/* ==== Small phones and iPhone SE/8 ==== */
+@media (max-width: 600px) {
+  .img-overlay h2 {
+    font-size: 1.4rem;
+  }
+
+  .img-overlay p {
+    font-size: 0.9rem;
+  }
+}
+
+/* ==== Tablets (portrait) ==== */
+@media (min-width: 601px) and (max-width: 768px) {
+  .img-overlay h2 {
+    font-size: 1.6rem;
+  }
+
+  .img-overlay p {
+    font-size: 1rem;
+  }
+
+  .take-quiz-btn {
+    font-size: 1.3rem;
+  }
+}
+
+/* ==== Tablets (landscape) ==== */
+@media (min-width: 769px) and (max-width: 900px) {
+  .img-overlay h2 {
+    font-size: 1.8rem;
+  }
+
+  .img-overlay p {
+    font-size: 1.1rem;
+  }
+   #contact-info .container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  #contact-info .socials {
+    margin-top: 2rem;
+  }
+    .img-left-side,
+  .img-right-side {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
+}
+
+/* ==== Mobile styles (up to 900px) ==== */
+@media (max-width: 900px) {
+  .menu-btn {
+    display: block;
+    font-size: 1.8rem;
+    color: white;
+    cursor: pointer;
+  }
+
+  #nav-menu {
+    position: fixed;
+    top: 0;
+    left: -100%;
+    height: 100vh;
+    width: 100%;
+    background-color: #2E8B57;
+    flex-direction: column;
+    padding-top: 4rem;
+    transition: left 0.3s ease-in-out;
+    display: flex;
+    gap: 1rem;
+    z-index: 1000;
+  }
+
+  #nav-menu.show {
+    left: 0;
+  }
+
+  .close-btn {
+    position: absolute;
+    top: 1rem;
+    right: 1.5rem;
+    font-size: 1.8rem;
+    color: white;
+    cursor: pointer;
+  }
+
+  nav ul li a {
+    font-size: 1.2rem;
+    color: white;
+  }
+
+  .swiper {
+    height: 70vh;
+  }
+
+  .img-overlay p {
+    letter-spacing: 4px;
+    color: #F5F5F5;
+    animation: animate 4s forwards;
+  }
+
+  .img-overlay h2 {
+    font-size: 1.5rem;
+    letter-spacing: 4px;
+  }
+    .take-quiz-btn {
+    font-size: 1rem;
+    padding: 8px 16px;
+  }
+  .location-search .container{
+    transform: translateY(90%);
+  }
+  .arrow-animation {
+  display: none;  
+  }
+   
+
+}
+/* ===== Desktop & Fullscreen View (901px and up) ===== */
+@media (min-width: 901px) {
+  .menu-btn,
+  .close-btn {
+    display: none !important;
+  }
+
+  #nav-menu {
+    position: static;
+    height: auto;
+    flex-direction: row;
+    background-color: transparent;
+    padding: 0;
+    left: 0 !important;
+    display: flex !important;
+  }
+
+  #nav-menu li a {
+    color: #fff;
+    font-size: 1rem;
+  }
+ 
+
+
+}
+@media (min-width: 1025px) {
+  .location-search h3 {
+    font-size: 1.5rem; /* Reduce from larger mobile size */
+    margin-bottom: 10px;
+  }
+
+  .take-quiz-btn {
+    font-size: 1.2rem;
+    padding: 8px 20px;
+  }
+
+  .arrow-animation {
+    width: 35px;
+  }
+
+}
+@media (max-width: 1023px) {
+  .location-search h3 {
+    display: none;
+  }
+  .location-search .container{
+     transform: translateY(-30%);
+  }
+}
+
+
+@media (max-width: 1024px) {
+  .choose-wrapper {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .row-wise-img .lg-img {
+    width: 250px;
+    height: 250px;
+  }
+}
+
+/* Mobile screen (max 768px) */
+@media (max-width: 768px) {
+  .choose-wrapper {
+    display: block;
+  }
+
+  .choose-wrapper .img-left-side,
+  .choose-wrapper .img-right-side {
+    margin-bottom: 2rem;
+  }}
+  @media (max-width: 900px) {
+  #itinerary .container {
+    flex-direction: column;
+  }
+
+  .video-bg,
+  .video-container {
+    width: 100%;
+  }
+
+  .itinerary {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+  }
+}

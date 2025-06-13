@@ -1,0 +1,3703 @@
+[
+  {
+    "name": "Nomadic Journey in East (Short)",
+    "season": "Winter",
+    "mood": "Nomadic",
+    "region": "East",
+    "duration": "Short",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "Khentii",
+            "Nomadic Camp",
+            "Help with morning chores",
+            "Horseback"
+          ],
+          [
+            "Afternoon",
+            "Dornod",
+            "Open steppe",
+            "Join herding migration",
+            "Camel"
+          ],
+          [
+            "Evening",
+            "Sukhbaatar",
+            "Local ger",
+            "Storytelling by elders",
+            "Walk"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "Khentii",
+            "Nomadic Camp",
+            "Help with morning chores",
+            "Horseback"
+          ],
+          [
+            "Afternoon",
+            "Dornod",
+            "Open steppe",
+            "Join herding migration",
+            "Camel"
+          ],
+          [
+            "Evening",
+            "Sukhbaatar",
+            "Local ger",
+            "Storytelling by elders",
+            "Walk"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "Khentii",
+            "Nomadic Camp",
+            "Help with morning chores",
+            "Horseback"
+          ],
+          [
+            "Afternoon",
+            "Dornod",
+            "Open steppe",
+            "Join herding migration",
+            "Camel"
+          ],
+          [
+            "Evening",
+            "Sukhbaatar",
+            "Local ger",
+            "Storytelling by elders",
+            "Walk"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventure Journey in South (Medium)",
+    "season": "Spring",
+    "mood": "Adventure",
+    "region": "South",
+    "duration": "Medium",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "Omnogovi",
+            "Gobi dunes",
+            "Camel trekking",
+            "Camel"
+          ],
+          [
+            "Afternoon",
+            "Bayankhongor",
+            "Canyons",
+            "Rock climbing",
+            "4x4 Jeep"
+          ],
+          [
+            "Evening",
+            "Dundgovi",
+            "Nomadic camp",
+            "Rest & cultural exchange",
+            "Walk"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "Omnogovi",
+            "Gobi dunes",
+            "Camel trekking",
+            "Camel"
+          ],
+          [
+            "Afternoon",
+            "Bayankhongor",
+            "Canyons",
+            "Rock climbing",
+            "4x4 Jeep"
+          ],
+          [
+            "Evening",
+            "Dundgovi",
+            "Nomadic camp",
+            "Rest & cultural exchange",
+            "Walk"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "Omnogovi",
+            "Gobi dunes",
+            "Camel trekking",
+            "Camel"
+          ],
+          [
+            "Afternoon",
+            "Bayankhongor",
+            "Canyons",
+            "Rock climbing",
+            "4x4 Jeep"
+          ],
+          [
+            "Evening",
+            "Dundgovi",
+            "Nomadic camp",
+            "Rest & cultural exchange",
+            "Walk"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "Omnogovi",
+            "Gobi dunes",
+            "Camel trekking",
+            "Camel"
+          ],
+          [
+            "Afternoon",
+            "Bayankhongor",
+            "Canyons",
+            "Rock climbing",
+            "4x4 Jeep"
+          ],
+          [
+            "Evening",
+            "Dundgovi",
+            "Nomadic camp",
+            "Rest & cultural exchange",
+            "Walk"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "Omnogovi",
+            "Gobi dunes",
+            "Camel trekking",
+            "Camel"
+          ],
+          [
+            "Afternoon",
+            "Bayankhongor",
+            "Canyons",
+            "Rock climbing",
+            "4x4 Jeep"
+          ],
+          [
+            "Evening",
+            "Dundgovi",
+            "Nomadic camp",
+            "Rest & cultural exchange",
+            "Walk"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Relaxation Journey in West (Short)",
+    "season": "Autumn",
+    "mood": "Relaxation",
+    "region": "West",
+    "duration": "Short",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "Uvs",
+            "Lake shore",
+            "Meditation and reading",
+            "Walk"
+          ],
+          [
+            "Afternoon",
+            "Bayan-\u00d6lgii",
+            "Hot springs",
+            "Relax in warm water",
+            "4x4 Jeep"
+          ],
+          [
+            "Evening",
+            "Khovd",
+            "Mountain retreat",
+            "Evening yoga",
+            "Horseback"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "Uvs",
+            "Lake shore",
+            "Meditation and reading",
+            "Walk"
+          ],
+          [
+            "Afternoon",
+            "Bayan-\u00d6lgii",
+            "Hot springs",
+            "Relax in warm water",
+            "4x4 Jeep"
+          ],
+          [
+            "Evening",
+            "Khovd",
+            "Mountain retreat",
+            "Evening yoga",
+            "Horseback"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "Uvs",
+            "Lake shore",
+            "Meditation and reading",
+            "Walk"
+          ],
+          [
+            "Afternoon",
+            "Bayan-\u00d6lgii",
+            "Hot springs",
+            "Relax in warm water",
+            "4x4 Jeep"
+          ],
+          [
+            "Evening",
+            "Khovd",
+            "Mountain retreat",
+            "Evening yoga",
+            "Horseback"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cultural Journey in Central (Long)",
+    "season": "Summer",
+    "mood": "Cultural",
+    "region": "Central",
+    "duration": "Long",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "Ulaanbaatar",
+            "Gandan Monastery",
+            "Join morning prayers",
+            "Bus"
+          ],
+          [
+            "Afternoon",
+            "Arkhangai",
+            "Local museum",
+            "Learn Mongolian history",
+            "Domestic flight"
+          ],
+          [
+            "Evening",
+            "Tuv",
+            "Traditional ger",
+            "Cook Mongolian dishes",
+            "Walk"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "Ulaanbaatar",
+            "Gandan Monastery",
+            "Join morning prayers",
+            "Bus"
+          ],
+          [
+            "Afternoon",
+            "Arkhangai",
+            "Local museum",
+            "Learn Mongolian history",
+            "Domestic flight"
+          ],
+          [
+            "Evening",
+            "Tuv",
+            "Traditional ger",
+            "Cook Mongolian dishes",
+            "Walk"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "Ulaanbaatar",
+            "Gandan Monastery",
+            "Join morning prayers",
+            "Bus"
+          ],
+          [
+            "Afternoon",
+            "Arkhangai",
+            "Local museum",
+            "Learn Mongolian history",
+            "Domestic flight"
+          ],
+          [
+            "Evening",
+            "Tuv",
+            "Traditional ger",
+            "Cook Mongolian dishes",
+            "Walk"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "Ulaanbaatar",
+            "Gandan Monastery",
+            "Join morning prayers",
+            "Bus"
+          ],
+          [
+            "Afternoon",
+            "Arkhangai",
+            "Local museum",
+            "Learn Mongolian history",
+            "Domestic flight"
+          ],
+          [
+            "Evening",
+            "Tuv",
+            "Traditional ger",
+            "Cook Mongolian dishes",
+            "Walk"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "Ulaanbaatar",
+            "Gandan Monastery",
+            "Join morning prayers",
+            "Bus"
+          ],
+          [
+            "Afternoon",
+            "Arkhangai",
+            "Local museum",
+            "Learn Mongolian history",
+            "Domestic flight"
+          ],
+          [
+            "Evening",
+            "Tuv",
+            "Traditional ger",
+            "Cook Mongolian dishes",
+            "Walk"
+          ]
+        ]
+      },
+      {
+        "day": "D6",
+        "schedule": [
+          [
+            "Morning",
+            "Ulaanbaatar",
+            "Gandan Monastery",
+            "Join morning prayers",
+            "Bus"
+          ],
+          [
+            "Afternoon",
+            "Arkhangai",
+            "Local museum",
+            "Learn Mongolian history",
+            "Domestic flight"
+          ],
+          [
+            "Evening",
+            "Tuv",
+            "Traditional ger",
+            "Cook Mongolian dishes",
+            "Walk"
+          ]
+        ]
+      },
+      {
+        "day": "D7",
+        "schedule": [
+          [
+            "Morning",
+            "Ulaanbaatar",
+            "Gandan Monastery",
+            "Join morning prayers",
+            "Bus"
+          ],
+          [
+            "Afternoon",
+            "Arkhangai",
+            "Local museum",
+            "Learn Mongolian history",
+            "Domestic flight"
+          ],
+          [
+            "Evening",
+            "Tuv",
+            "Traditional ger",
+            "Cook Mongolian dishes",
+            "Walk"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nomadic Journey in North (Long)",
+    "season": "Summer",
+    "mood": "Nomadic",
+    "region": "North",
+    "duration": "Long",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Buir Lake",
+            "Explore ancient burial sites",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Khalkhgol Museum",
+            "Explore ancient burial sites",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Bayanzurkh Pass",
+            "Sunset photography at ridge",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Bayanzurkh Pass",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Toson Lake",
+            "Scenic hike to panoramic viewpoints",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Kherlen River",
+            "Explore ancient burial sites",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Ikh Burkhant",
+            "Archery lesson with local herder",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Bayanzurkh Pass",
+            "Sunset photography at ridge",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Kherlen River",
+            "Explore ancient burial sites",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Dadal Village",
+            "Traditional dance performance",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Kherlen River",
+            "Archery lesson with local herder",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Dadal Village",
+            "Sunset photography at ridge",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Bayanzurkh Pass",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Bayanzurkh Pass",
+            "Archery lesson with local herder",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Sumber Valley",
+            "Eagle watching and eco-walk",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nomadic Journey in South (Medium)",
+    "season": "Spring",
+    "mood": "Nomadic",
+    "region": "South",
+    "duration": "Medium",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Bayanzurkh Pass",
+            "Scenic hike to panoramic viewpoints",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Khalkhgol Museum",
+            "Traditional dance performance",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Kherlen River",
+            "Campfire dinner with folk storytelling",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Bayanzurkh Pass",
+            "Scenic hike to panoramic viewpoints",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Ikh Burkhant",
+            "Eagle watching and eco-walk",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Toson Lake",
+            "Explore ancient burial sites",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Buir Lake",
+            "Visit local museum and cultural center",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Ikh Burkhant",
+            "Sunset photography at ridge",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Bayanzurkh Pass",
+            "Eagle watching and eco-walk",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Bayanzurkh Pass",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Dadal Village",
+            "Explore ancient burial sites",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Dadal Village",
+            "Explore ancient burial sites",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Sumber Valley",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Sumber Valley",
+            "Campfire dinner with folk storytelling",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Ikh Burkhant",
+            "Eagle watching and eco-walk",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nomadic Journey in Central (Long)",
+    "season": "Autumn",
+    "mood": "Nomadic",
+    "region": "Central",
+    "duration": "Long",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Bayanzurkh Pass",
+            "Archery lesson with local herder",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Dadal Village",
+            "Archery lesson with local herder",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Bayanzurkh Pass",
+            "Explore ancient burial sites",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Khalkhgol Museum",
+            "Traditional dance performance",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Dadal Village",
+            "Explore ancient burial sites",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Buir Lake",
+            "Eagle watching and eco-walk",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Toson Lake",
+            "Explore ancient burial sites",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Buir Lake",
+            "Eagle watching and eco-walk",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Buir Lake",
+            "Campfire dinner with folk storytelling",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Kherlen River",
+            "Explore ancient burial sites",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Dadal Village",
+            "Sunset photography at ridge",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Toson Lake",
+            "Scenic hike to panoramic viewpoints",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Dadal Village",
+            "Traditional dance performance",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Kherlen River",
+            "Scenic hike to panoramic viewpoints",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Ikh Burkhant",
+            "Campfire dinner with folk storytelling",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nomadic Journey in South (Long)",
+    "season": "Autumn",
+    "mood": "Nomadic",
+    "region": "South",
+    "duration": "Long",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Ikh Burkhant",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Toson Lake",
+            "Eagle watching and eco-walk",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Buir Lake",
+            "Archery lesson with local herder",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Bayanzurkh Pass",
+            "Explore ancient burial sites",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Sumber Valley",
+            "Archery lesson with local herder",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Khalkhgol Museum",
+            "Visit local museum and cultural center",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Ikh Burkhant",
+            "Scenic hike to panoramic viewpoints",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Buir Lake",
+            "Scenic hike to panoramic viewpoints",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Sumber Valley",
+            "Traditional dance performance",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Buir Lake",
+            "Traditional dance performance",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Kherlen River",
+            "Visit local museum and cultural center",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Toson Lake",
+            "Eagle watching and eco-walk",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Kherlen River",
+            "Archery lesson with local herder",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Kherlen River",
+            "Eagle watching and eco-walk",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Khalkhgol Museum",
+            "Visit local museum and cultural center",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventure Journey in East (Short)",
+    "season": "Spring",
+    "mood": "Adventure",
+    "region": "East",
+    "duration": "Short",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Ikh Burkhant",
+            "Eagle watching and eco-walk",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Ikh Burkhant",
+            "Archery lesson with local herder",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Kherlen River",
+            "Sunset photography at ridge",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Bayanzurkh Pass",
+            "Explore ancient burial sites",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Toson Lake",
+            "Campfire dinner with folk storytelling",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Toson Lake",
+            "Visit local museum and cultural center",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Kherlen River",
+            "Eagle watching and eco-walk",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Khalkhgol Museum",
+            "Archery lesson with local herder",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Dadal Village",
+            "Campfire dinner with folk storytelling",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Bayanzurkh Pass",
+            "Eagle watching and eco-walk",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Sumber Valley",
+            "Archery lesson with local herder",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Sumber Valley",
+            "Archery lesson with local herder",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Dadal Village",
+            "Visit local museum and cultural center",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Kherlen River",
+            "Visit local museum and cultural center",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Toson Lake",
+            "Archery lesson with local herder",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventure Journey in South (Short)",
+    "season": "Spring",
+    "mood": "Adventure",
+    "region": "South",
+    "duration": "Short",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Kherlen River",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Ikh Burkhant",
+            "Eagle watching and eco-walk",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Dadal Village",
+            "Eagle watching and eco-walk",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Kherlen River",
+            "Visit local museum and cultural center",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Bayanzurkh Pass",
+            "Scenic hike to panoramic viewpoints",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Dadal Village",
+            "Sunset photography at ridge",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Ikh Burkhant",
+            "Sunset photography at ridge",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Kherlen River",
+            "Archery lesson with local herder",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Sumber Valley",
+            "Campfire dinner with folk storytelling",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Dadal Village",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Kherlen River",
+            "Archery lesson with local herder",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Kherlen River",
+            "Visit local museum and cultural center",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Khalkhgol Museum",
+            "Explore ancient burial sites",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Bayanzurkh Pass",
+            "Campfire dinner with folk storytelling",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Buir Lake",
+            "Traditional dance performance",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventure Journey in North (Medium)",
+    "season": "Summer",
+    "mood": "Adventure",
+    "region": "North",
+    "duration": "Medium",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Kherlen River",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Sumber Valley",
+            "Traditional dance performance",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Dadal Village",
+            "Scenic hike to panoramic viewpoints",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Buir Lake",
+            "Visit local museum and cultural center",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Bayanzurkh Pass",
+            "Archery lesson with local herder",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Khalkhgol Museum",
+            "Scenic hike to panoramic viewpoints",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Toson Lake",
+            "Traditional dance performance",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Sumber Valley",
+            "Archery lesson with local herder",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Khalkhgol Museum",
+            "Sunset photography at ridge",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Bayanzurkh Pass",
+            "Explore ancient burial sites",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Buir Lake",
+            "Visit local museum and cultural center",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Buir Lake",
+            "Explore ancient burial sites",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Kherlen River",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Khalkhgol Museum",
+            "Sunset photography at ridge",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Buir Lake",
+            "Eagle watching and eco-walk",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventure Journey in Central (Long)",
+    "season": "Summer",
+    "mood": "Adventure",
+    "region": "Central",
+    "duration": "Long",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Kherlen River",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Bayanzurkh Pass",
+            "Visit local museum and cultural center",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Buir Lake",
+            "Sunset photography at ridge",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Ikh Burkhant",
+            "Sunset photography at ridge",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Toson Lake",
+            "Traditional dance performance",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Kherlen River",
+            "Explore ancient burial sites",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Sumber Valley",
+            "Archery lesson with local herder",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Kherlen River",
+            "Visit local museum and cultural center",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Buir Lake",
+            "Scenic hike to panoramic viewpoints",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Kherlen River",
+            "Visit local museum and cultural center",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Bayanzurkh Pass",
+            "Traditional dance performance",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Kherlen River",
+            "Eagle watching and eco-walk",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Toson Lake",
+            "Eagle watching and eco-walk",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Ikh Burkhant",
+            "Scenic hike to panoramic viewpoints",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Bayanzurkh Pass",
+            "Scenic hike to panoramic viewpoints",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventure Journey in West (Short)",
+    "season": "Autumn",
+    "mood": "Adventure",
+    "region": "West",
+    "duration": "Short",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "West",
+            "Khalkhgol Museum",
+            "Visit local museum and cultural center",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "West",
+            "Buir Lake",
+            "Eagle watching and eco-walk",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "West",
+            "Bayanzurkh Pass",
+            "Scenic hike to panoramic viewpoints",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "West",
+            "Khalkhgol Museum",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "West",
+            "Toson Lake",
+            "Explore ancient burial sites",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "West",
+            "Kherlen River",
+            "Sunset photography at ridge",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "West",
+            "Toson Lake",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "West",
+            "Dadal Village",
+            "Scenic hike to panoramic viewpoints",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "West",
+            "Dadal Village",
+            "Sunset photography at ridge",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "West",
+            "Kherlen River",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "West",
+            "Khalkhgol Museum",
+            "Eagle watching and eco-walk",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "West",
+            "Bayanzurkh Pass",
+            "Archery lesson with local herder",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "West",
+            "Khalkhgol Museum",
+            "Visit local museum and cultural center",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "West",
+            "Toson Lake",
+            "Archery lesson with local herder",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "West",
+            "Khalkhgol Museum",
+            "Visit local museum and cultural center",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Relaxation Journey in East (Short)",
+    "season": "Spring",
+    "mood": "Relaxation",
+    "region": "East",
+    "duration": "Short",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Kherlen River",
+            "Visit local museum and cultural center",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Kherlen River",
+            "Archery lesson with local herder",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Bayanzurkh Pass",
+            "Visit local museum and cultural center",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Sumber Valley",
+            "Scenic hike to panoramic viewpoints",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Bayanzurkh Pass",
+            "Scenic hike to panoramic viewpoints",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Toson Lake",
+            "Scenic hike to panoramic viewpoints",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Khalkhgol Museum",
+            "Scenic hike to panoramic viewpoints",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Buir Lake",
+            "Scenic hike to panoramic viewpoints",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Sumber Valley",
+            "Explore ancient burial sites",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Dadal Village",
+            "Visit local museum and cultural center",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Khalkhgol Museum",
+            "Scenic hike to panoramic viewpoints",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Sumber Valley",
+            "Archery lesson with local herder",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Khalkhgol Museum",
+            "Traditional dance performance",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Sumber Valley",
+            "Sunset photography at ridge",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Buir Lake",
+            "Eagle watching and eco-walk",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Relaxation Journey in South (Short)",
+    "season": "Winter",
+    "mood": "Relaxation",
+    "region": "South",
+    "duration": "Short",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Toson Lake",
+            "Visit local museum and cultural center",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Buir Lake",
+            "Campfire dinner with folk storytelling",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Sumber Valley",
+            "Visit local museum and cultural center",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Bayanzurkh Pass",
+            "Scenic hike to panoramic viewpoints",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Buir Lake",
+            "Campfire dinner with folk storytelling",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Kherlen River",
+            "Scenic hike to panoramic viewpoints",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Sumber Valley",
+            "Scenic hike to panoramic viewpoints",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Toson Lake",
+            "Visit local museum and cultural center",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Ikh Burkhant",
+            "Sunset photography at ridge",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Toson Lake",
+            "Scenic hike to panoramic viewpoints",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Ikh Burkhant",
+            "Eagle watching and eco-walk",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Toson Lake",
+            "Explore ancient burial sites",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Sumber Valley",
+            "Explore ancient burial sites",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Khalkhgol Museum",
+            "Sunset photography at ridge",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Ikh Burkhant",
+            "Eagle watching and eco-walk",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Relaxation Journey in Central (Medium)",
+    "season": "Summer",
+    "mood": "Relaxation",
+    "region": "Central",
+    "duration": "Medium",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Sumber Valley",
+            "Sunset photography at ridge",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Kherlen River",
+            "Explore ancient burial sites",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Bayanzurkh Pass",
+            "Sunset photography at ridge",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Khalkhgol Museum",
+            "Scenic hike to panoramic viewpoints",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Ikh Burkhant",
+            "Eagle watching and eco-walk",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Dadal Village",
+            "Sunset photography at ridge",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Sumber Valley",
+            "Traditional dance performance",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Ikh Burkhant",
+            "Explore ancient burial sites",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Khalkhgol Museum",
+            "Traditional dance performance",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Sumber Valley",
+            "Scenic hike to panoramic viewpoints",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Dadal Village",
+            "Visit local museum and cultural center",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Khalkhgol Museum",
+            "Traditional dance performance",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Bayanzurkh Pass",
+            "Scenic hike to panoramic viewpoints",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Toson Lake",
+            "Explore ancient burial sites",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Buir Lake",
+            "Eagle watching and eco-walk",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Relaxation Journey in North (Medium)",
+    "season": "Summer",
+    "mood": "Relaxation",
+    "region": "North",
+    "duration": "Medium",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Buir Lake",
+            "Traditional dance performance",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Kherlen River",
+            "Explore ancient burial sites",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Khalkhgol Museum",
+            "Visit local museum and cultural center",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Khalkhgol Museum",
+            "Eagle watching and eco-walk",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Bayanzurkh Pass",
+            "Sunset photography at ridge",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Bayanzurkh Pass",
+            "Campfire dinner with folk storytelling",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Khalkhgol Museum",
+            "Scenic hike to panoramic viewpoints",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Buir Lake",
+            "Explore ancient burial sites",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Buir Lake",
+            "Visit local museum and cultural center",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Kherlen River",
+            "Sunset photography at ridge",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Bayanzurkh Pass",
+            "Sunset photography at ridge",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Dadal Village",
+            "Sunset photography at ridge",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Kherlen River",
+            "Archery lesson with local herder",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Bayanzurkh Pass",
+            "Traditional dance performance",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Bayanzurkh Pass",
+            "Traditional dance performance",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cultural Journey in Central (Short)",
+    "season": "Autumn",
+    "mood": "Cultural",
+    "region": "Central",
+    "duration": "Short",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Sumber Valley",
+            "Archery lesson with local herder",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Khalkhgol Museum",
+            "Eagle watching and eco-walk",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Dadal Village",
+            "Archery lesson with local herder",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Dadal Village",
+            "Eagle watching and eco-walk",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Ikh Burkhant",
+            "Campfire dinner with folk storytelling",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Toson Lake",
+            "Archery lesson with local herder",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Sumber Valley",
+            "Sunset photography at ridge",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Toson Lake",
+            "Sunset photography at ridge",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Buir Lake",
+            "Traditional dance performance",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Sumber Valley",
+            "Explore ancient burial sites",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Kherlen River",
+            "Explore ancient burial sites",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Dadal Village",
+            "Explore ancient burial sites",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Dadal Village",
+            "Archery lesson with local herder",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Sumber Valley",
+            "Eagle watching and eco-walk",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Bayanzurkh Pass",
+            "Campfire dinner with folk storytelling",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cultural Journey in East (Medium)",
+    "season": "Spring",
+    "mood": "Cultural",
+    "region": "East",
+    "duration": "Medium",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Kherlen River",
+            "Explore ancient burial sites",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Buir Lake",
+            "Visit local museum and cultural center",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Khalkhgol Museum",
+            "Sunset photography at ridge",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Ikh Burkhant",
+            "Visit local museum and cultural center",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Sumber Valley",
+            "Scenic hike to panoramic viewpoints",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Toson Lake",
+            "Visit local museum and cultural center",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Sumber Valley",
+            "Scenic hike to panoramic viewpoints",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Toson Lake",
+            "Scenic hike to panoramic viewpoints",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Kherlen River",
+            "Traditional dance performance",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Toson Lake",
+            "Eagle watching and eco-walk",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Ikh Burkhant",
+            "Explore ancient burial sites",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Buir Lake",
+            "Archery lesson with local herder",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Sumber Valley",
+            "Eagle watching and eco-walk",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Buir Lake",
+            "Scenic hike to panoramic viewpoints",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Kherlen River",
+            "Campfire dinner with folk storytelling",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cultural Journey in West (Long)",
+    "season": "Winter",
+    "mood": "Cultural",
+    "region": "West",
+    "duration": "Long",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "West",
+            "Buir Lake",
+            "Explore ancient burial sites",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "West",
+            "Kherlen River",
+            "Sunset photography at ridge",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "West",
+            "Buir Lake",
+            "Sunset photography at ridge",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "West",
+            "Ikh Burkhant",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "West",
+            "Khalkhgol Museum",
+            "Sunset photography at ridge",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "West",
+            "Sumber Valley",
+            "Eagle watching and eco-walk",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "West",
+            "Kherlen River",
+            "Scenic hike to panoramic viewpoints",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "West",
+            "Ikh Burkhant",
+            "Sunset photography at ridge",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "West",
+            "Sumber Valley",
+            "Explore ancient burial sites",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "West",
+            "Buir Lake",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "West",
+            "Kherlen River",
+            "Scenic hike to panoramic viewpoints",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "West",
+            "Kherlen River",
+            "Archery lesson with local herder",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "West",
+            "Ikh Burkhant",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "West",
+            "Buir Lake",
+            "Traditional dance performance",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "West",
+            "Kherlen River",
+            "Campfire dinner with folk storytelling",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cultural Journey in South (Short)",
+    "season": "Summer",
+    "mood": "Cultural",
+    "region": "South",
+    "duration": "Short",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Dadal Village",
+            "Eagle watching and eco-walk",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Ikh Burkhant",
+            "Traditional dance performance",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Dadal Village",
+            "Campfire dinner with folk storytelling",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Khalkhgol Museum",
+            "Explore ancient burial sites",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Kherlen River",
+            "Archery lesson with local herder",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Sumber Valley",
+            "Traditional dance performance",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Sumber Valley",
+            "Sunset photography at ridge",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Kherlen River",
+            "Sunset photography at ridge",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Kherlen River",
+            "Archery lesson with local herder",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Sumber Valley",
+            "Eagle watching and eco-walk",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Toson Lake",
+            "Campfire dinner with folk storytelling",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Sumber Valley",
+            "Traditional dance performance",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Dadal Village",
+            "Archery lesson with local herder",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Dadal Village",
+            "Explore ancient burial sites",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Bayanzurkh Pass",
+            "Campfire dinner with folk storytelling",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cultural Journey in North (Short)",
+    "season": "Spring",
+    "mood": "Cultural",
+    "region": "North",
+    "duration": "Short",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Toson Lake",
+            "Visit local museum and cultural center",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Kherlen River",
+            "Visit local museum and cultural center",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Buir Lake",
+            "Explore ancient burial sites",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Toson Lake",
+            "Traditional dance performance",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Bayanzurkh Pass",
+            "Explore ancient burial sites",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Toson Lake",
+            "Traditional dance performance",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Sumber Valley",
+            "Explore ancient burial sites",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Buir Lake",
+            "Campfire dinner with folk storytelling",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Khalkhgol Museum",
+            "Campfire dinner with folk storytelling",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Khalkhgol Museum",
+            "Visit local museum and cultural center",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Kherlen River",
+            "Traditional dance performance",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Sumber Valley",
+            "Visit local museum and cultural center",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Khalkhgol Museum",
+            "Visit local museum and cultural center",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Buir Lake",
+            "Scenic hike to panoramic viewpoints",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Buir Lake",
+            "Archery lesson with local herder",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mixed Journey in East (Medium)",
+    "season": "Spring",
+    "mood": "Adventure",
+    "region": "East",
+    "duration": "Medium",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Toson Lake",
+            "Scenic hike to panoramic viewpoints",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Kherlen River",
+            "Archery lesson with local herder",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Kherlen River",
+            "Explore ancient burial sites",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Toson Lake",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Bayanzurkh Pass",
+            "Visit local museum and cultural center",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Kherlen River",
+            "Campfire dinner with folk storytelling",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Ikh Burkhant",
+            "Explore ancient burial sites",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Khalkhgol Museum",
+            "Archery lesson with local herder",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Ikh Burkhant",
+            "Explore ancient burial sites",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Bayanzurkh Pass",
+            "Sunset photography at ridge",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Bayanzurkh Pass",
+            "Explore ancient burial sites",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Bayanzurkh Pass",
+            "Sunset photography at ridge",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "East",
+            "Toson Lake",
+            "Eagle watching and eco-walk",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "East",
+            "Kherlen River",
+            "Eagle watching and eco-walk",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "East",
+            "Sumber Valley",
+            "Scenic hike to panoramic viewpoints",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mixed Journey in South (Short)",
+    "season": "Winter",
+    "mood": "Relaxation",
+    "region": "South",
+    "duration": "Short",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Toson Lake",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Buir Lake",
+            "Archery lesson with local herder",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Khalkhgol Museum",
+            "Scenic hike to panoramic viewpoints",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Kherlen River",
+            "Archery lesson with local herder",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Bayanzurkh Pass",
+            "Visit local museum and cultural center",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Buir Lake",
+            "Archery lesson with local herder",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Khalkhgol Museum",
+            "Scenic hike to panoramic viewpoints",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Kherlen River",
+            "Eagle watching and eco-walk",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Sumber Valley",
+            "Scenic hike to panoramic viewpoints",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Sumber Valley",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Toson Lake",
+            "Traditional dance performance",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Kherlen River",
+            "Visit local museum and cultural center",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "South",
+            "Toson Lake",
+            "Explore ancient burial sites",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "South",
+            "Sumber Valley",
+            "Traditional dance performance",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "South",
+            "Dadal Village",
+            "Scenic hike to panoramic viewpoints",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mixed Journey in Central (Medium)",
+    "season": "Autumn",
+    "mood": "Nomadic",
+    "region": "Central",
+    "duration": "Medium",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Khalkhgol Museum",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Khalkhgol Museum",
+            "Traditional dance performance",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Buir Lake",
+            "Eagle watching and eco-walk",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Khalkhgol Museum",
+            "Traditional dance performance",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Ikh Burkhant",
+            "Scenic hike to panoramic viewpoints",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Khalkhgol Museum",
+            "Archery lesson with local herder",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Dadal Village",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Sumber Valley",
+            "Explore ancient burial sites",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Dadal Village",
+            "Sunset photography at ridge",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Toson Lake",
+            "Traditional dance performance",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Ikh Burkhant",
+            "Archery lesson with local herder",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Kherlen River",
+            "Sunset photography at ridge",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "Central",
+            "Kherlen River",
+            "Scenic hike to panoramic viewpoints",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "Central",
+            "Ikh Burkhant",
+            "Traditional dance performance",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "Central",
+            "Khalkhgol Museum",
+            "Visit local museum and cultural center",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mixed Journey in West (Long)",
+    "season": "Winter",
+    "mood": "Cultural",
+    "region": "West",
+    "duration": "Long",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "West",
+            "Bayanzurkh Pass",
+            "Sunset photography at ridge",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "West",
+            "Sumber Valley",
+            "Scenic hike to panoramic viewpoints",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "West",
+            "Ikh Burkhant",
+            "Archery lesson with local herder",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "West",
+            "Sumber Valley",
+            "Visit local museum and cultural center",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "West",
+            "Dadal Village",
+            "Traditional dance performance",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "West",
+            "Bayanzurkh Pass",
+            "Visit local museum and cultural center",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "West",
+            "Bayanzurkh Pass",
+            "Explore ancient burial sites",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "West",
+            "Ikh Burkhant",
+            "Visit local museum and cultural center",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "West",
+            "Toson Lake",
+            "Campfire dinner with folk storytelling",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "West",
+            "Dadal Village",
+            "Visit local museum and cultural center",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "West",
+            "Kherlen River",
+            "Traditional dance performance",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "West",
+            "Ikh Burkhant",
+            "Campfire dinner with folk storytelling",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "West",
+            "Dadal Village",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "West",
+            "Ikh Burkhant",
+            "Archery lesson with local herder",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "West",
+            "Kherlen River",
+            "Scenic hike to panoramic viewpoints",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mixed Journey in North (Short)",
+    "season": "Spring",
+    "mood": "Adventure",
+    "region": "North",
+    "duration": "Short",
+    "days": [
+      {
+        "day": "D1",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Buir Lake",
+            "Campfire dinner with folk storytelling",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Sumber Valley",
+            "Scenic hike to panoramic viewpoints",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Sumber Valley",
+            "Sunset photography at ridge",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D2",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Toson Lake",
+            "Sunset photography at ridge",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Kherlen River",
+            "Scenic hike to panoramic viewpoints",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Kherlen River",
+            "Eagle watching and eco-walk",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D3",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Bayanzurkh Pass",
+            "Traditional dance performance",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Sumber Valley",
+            "Campfire dinner with folk storytelling",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Khalkhgol Museum",
+            "Explore ancient burial sites",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D4",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Buir Lake",
+            "Visit local museum and cultural center",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Buir Lake",
+            "Eagle watching and eco-walk",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Ikh Burkhant",
+            "Traditional dance performance",
+            "Camel"
+          ]
+        ]
+      },
+      {
+        "day": "D5",
+        "schedule": [
+          [
+            "Morning",
+            "North",
+            "Bayanzurkh Pass",
+            "Eagle watching and eco-walk",
+            "4x4 Jeep"
+          ],
+          [
+            "Afternoon",
+            "North",
+            "Khalkhgol Museum",
+            "Traditional dance performance",
+            "Horseback"
+          ],
+          [
+            "Evening",
+            "North",
+            "Sumber Valley",
+            "Scenic hike to panoramic viewpoints",
+            "Camel"
+          ]
+        ]
+      }
+    ]
+  }
+]
